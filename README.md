@@ -1,1 +1,1 @@
-![banner](./banner.jpg)
+![banner](/dionysio/dionysio/blob/master/banner.jpg)
